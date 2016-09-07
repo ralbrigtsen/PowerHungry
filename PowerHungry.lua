@@ -61,7 +61,6 @@ btn:SetScript("OnEvent", function(_, event)
 				btn.itemID = id
 				btn:SetAttribute("item", "item:"..id)
 				tex:SetTexture(GetItemIcon(id))
-				fs:SetShown(false)
 				fs:SetText(TEXT_FMT:format(p))
 			else --fallback
 				btn:SetShown(false)

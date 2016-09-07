@@ -1,7 +1,8 @@
-## Interface: 70000
+## Interface: 70300
 ## Title: Power Hungry
 ## Notes: A simple button to apply artifact power upgrades.
 ## Author: Predicate
+## Clone: Znat
 ## OptionalDeps: BlankSlate
 ## LoadManagers: LoadManager
 ## X-LoadIf: return true
