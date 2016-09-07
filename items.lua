@@ -5,6 +5,11 @@ end
 
 power = {
 
+    [141922] = 220, -- Brulstone Fishing Sinker
+    [141931] = 215, -- Tattered Farondis Heraldry
+    [141702] = 200, -- Spoiled Manawine Dregs
+	[141689] = 55, -- Jewel of Victory
+	[141690] = 35, -- Symbol of Victory
 	[121818] = 0, --Libram of Divinity ???
 	[127999] = 10, --Shard of Potentiation (old)
 	[128000] = 25, --Crystal of Ensoulment (x?)
